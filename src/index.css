@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container{
+  max-width: 1070px;
+  margin: 0 auto;
+}
+/* @layer base{
+  .container{
+    @apply   border;
+
+  }
+} */
